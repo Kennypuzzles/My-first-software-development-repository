@@ -8,3 +8,5 @@ In my software development class, I have understood that Version Control is a sy
 Challenges of version control is security vulnerabilities, managing large codebases, library and packaging compatibility, documentation and comments.
 
 Benefits of version control are code review, collaboration, back up & recovery, merging, traceablility, and maintenance.
+
+It's a pretty interesting class and i am hoping to learn more from this class.
